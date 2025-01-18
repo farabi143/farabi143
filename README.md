@@ -1,4 +1,4 @@
-|[logo](https://github.com/farabi143/farabi143/blob/main/Beige%20White%20Aesthetic%20Elegant%20Photo%20Collage%20Personal%20Facebook%20COver_20250118_133108_0000.png)
+![logo](https://github.com/farabi143/farabi143/blob/main/Beige%20White%20Aesthetic%20Elegant%20Photo%20Collage%20Personal%20Facebook%20COver_20250118_133108_0000.png)
 <h1 align="center">Hi 👋, I'm Tanim Ahmed Asif</h1>
 <h3 align="center">I'm A Student From SSC Batch 2026</h3>
 <img align="right" alt=coding" width="400" SRC="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
