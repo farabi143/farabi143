@@ -1,10 +1,10 @@
 ![logo](https://github.com/farabi143/farabi143/blob/main/Beige%20White%20Aesthetic%20Elegant%20Photo%20Collage%20Personal%20Facebook%20COver_20250118_133108_0000.png)
-<h1 align="center">Hi 👋, I'm Tanim Ahmed Asif</h1>
-<h3 align="center">I'm A Student From SSC Batch 2026</h3>
+<h1 align="center">Hi 👋, I'm Farabi Hasan Foysal</h1>
+<h3 align="center">im the best Athlete in my town</h3>
 <img align="right" alt=coding" width="400" SRC="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 📫 How to reach me **Mdasif22500@gmail.com**
+- 📫 How to reach me https://www.facebook.com/farabi.hasan.f.ysal
 
-- ⚡ Fun fact **I Am Very Angry**
+- ⚡ Fun fact **if you love me I will love you** if you hate me I don't care.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
